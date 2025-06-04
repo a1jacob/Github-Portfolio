@@ -6,7 +6,8 @@
 <h2>👨‍💻 Technical Projects:</h2>
 
 - <b>Python</b>
-  - [Insight on Global food waste](https://v2hub.ischool.syr.edu/user/sjacob11@syr.edu/lab/workspaces/auto-v/tree/library/ist256/spring2025/lessons/project/P3.ipynb)
+  - [Code](https://v2hub.ischool.syr.edu/user/sjacob11@syr.edu/lab/workspaces/auto-v/tree/library/ist256/spring2025/lessons/project/P3.ipynb)
+  - [Insight On Global food waste](https://github.com/a1jacob/Project256)
 
 
 
